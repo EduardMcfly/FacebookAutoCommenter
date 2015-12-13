@@ -1,2 +1,2 @@
-# FacebookAutoCommenter
-Facebook Auto Commenter
+# Facebook Auto Commenter
+Automatically Post Comments on Status, Photos, group posts, page posts, lists, page feeds, events, timeline, news feeds...
