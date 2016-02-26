@@ -1,6 +1,7 @@
-Facebook Auto Commenter
-============================
+Facebook Auto Commenter Unlimited
+=================================
 - [Introduction](#introduction)
+- [Screen Shots](#screen-shots)
 - [Requirements or How To Install?](#requirements-or-how-to-install)
 - [Download or Install](#download-or-install)
 - [Supported Languages](#supported-languages)
@@ -10,7 +11,7 @@ Introduction
 Facebook Auto Commenter Script will Automatically Post Comments on Status, Photos, group posts, page posts, lists, page feeds, events, timeline, news feeds... Auto Post comments from one fanpage to others fanpages, similarly auto comment from one facebook Profile to other...
 
 <b>Main Features</b>
-
+- Auto Reply to all Comments any where on Facebook...
 - Automatically Post Comments on your newsfeed, Facebook Pages, Groups and Timeline etc...
 - Post Random Comments on facebook posts...
 - Post Random Sticker/Emoj/Emotions from different avialable categories on facebook....
@@ -20,6 +21,15 @@ Facebook Auto Commenter Script will Automatically Post Comments on Status, Photo
 - Works in realistic way not like a Facebook Comment BOT...
 - Time interval between each comment is 5-15 seconds, selected randomly on runtime...
 - Multi-Language Support: Currently Script avialable in English, Eespañol, Filipino, Português, Français, Bahasa Indonesia, Türkçe, Deutsch, Arabic/العربية, 中文/Chinese and Italiano...
+
+Screen Shots
+=============
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoComment.png)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoCommentReplyFreeBot.png)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoRandomComments.png)
+
 
 Requirements or How To Install?
 ==============================
