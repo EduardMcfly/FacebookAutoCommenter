@@ -55,7 +55,7 @@ Opera version 12 and earlier supports user scripts natively. [Violentmonkey](htt
 Download or Install
 ===================
 <b>Facebook Auto Commenter</b>
-- After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoCommenter/master/FacebookAutoComment.user.js) to install...
+- After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js) to install...
 
 
 Supported Languages
