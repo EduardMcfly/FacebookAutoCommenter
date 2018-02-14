@@ -40,7 +40,8 @@ Once extension or addon is enabled in your browser, you can easily install by cl
 Before installing this user script you need to install one of the following <b>browser extension or addon</b>...
 
 <b>For Firefox and related</b>
-  - [Greasemonkey addon](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey)
+  - [Tampermonkey addon](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+  - This script is not compatible with Greasemonkey addon...
 
 <b>For Google Chrome, Chromium, and related</b>
   - [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br>
